@@ -41,27 +41,25 @@ The development environment consist of the following tools:
 
 ## UML designs.
 
+![Use Cases](.images/image03.jpg)
 
 
+![Class Diagram](.images/image00.png)
 
 
-
-## Use cases.
-
-
-## Classes Diagram.
-
+![Activity Diagram](.images/image01.jpg)
 
 
 ## Activity Diagram. (Add Appointment Use Case.)
 
-For the use case “Add Appointment” the attachment file add appointment.pdf contains the details.
+![Activty Diagram Table](.images/activity.jpg)
 
 **Note:**
 We only write down the details for add appointment as for the login and register functionality is straightforward.
 
 
-Activity Diagram. Adding Appointment.
+![Activity Diagram. Adding Appointment](.images/image02.jpg)
+
 
 
 
